@@ -1,0 +1,5 @@
+# WikiTV
+
+## EFind information about your favorite movies and series
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
